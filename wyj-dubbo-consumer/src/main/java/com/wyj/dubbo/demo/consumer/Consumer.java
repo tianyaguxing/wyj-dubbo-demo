@@ -15,7 +15,7 @@ public class Consumer {
 
     public static void main(String[] args) {
 
-        ClassPathXmlApplicationContext classPathXmlApplicationContext = new ClassPathXmlApplicationContext(new String[] { "META-INF/spring/dubbo-demo-consumer.xml" });
+        ClassPathXmlApplicationContext classPathXmlApplicationContext = new ClassPathXmlApplicationContext("dubbo-consumer.xml");
         classPathXmlApplicationContext.start();
         DemoService demoService = (DemoService) classPathXmlApplicationContext.getBean("demoService"); 
 
