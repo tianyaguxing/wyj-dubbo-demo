@@ -4,7 +4,7 @@ package com.wyj.dubbo.demo;
  * 
  * 
  * @author：WangYuanJun
- * @date：2018年1月9日 下午4:03:40
+ * @date：2018年1月9日 下午9:03:40
  */
 public interface DemoService {
     

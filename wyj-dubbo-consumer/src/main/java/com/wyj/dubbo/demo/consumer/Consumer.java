@@ -9,7 +9,7 @@ import com.wyj.dubbo.demo.DemoService;
  * 
  * 
  * @author：WangYuanJun
- * @date：2018年1月9日 下午5:00:33
+ * @date：2018年1月9日 下午10:00:33
  */
 public class Consumer {
 

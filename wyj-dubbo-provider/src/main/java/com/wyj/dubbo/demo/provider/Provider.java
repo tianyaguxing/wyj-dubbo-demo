@@ -9,7 +9,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
  * 
  * 
  * @author：WangYuanJun
- * @date：2018年1月9日 下午4:10:38
+ * @date：2018年1月9日 下午9:10:38
  */
 public class Provider {
 
